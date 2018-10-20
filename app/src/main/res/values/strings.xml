@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SymptomChecker</string>
+    <string-array name="diseases">
+        <item>-</item>
+        <item>Others</item>
+        <item>Cold</item>
+        <item>Flu</item>
+    </string-array>
+    <string name="textview">TextView</string>
+</resources>
